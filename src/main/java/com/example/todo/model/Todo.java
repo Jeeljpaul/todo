@@ -1,20 +1,28 @@
 package com.example.todo.model;
 
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
+
+import java.time.LocalDateTime;
 
 
 @Entity
+@Table(name = "todos")
 public class Todo {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private  Integer id;
+    @Column(name = "task")
     private String task;
+    @Column(name = "is_completed")
     private String completed;
+
+
+    @ManyToOne
+    @JoinColumn(name = "user_id")
+    private User user;
 
 
     public Todo(int i, String s, boolean b) {
