@@ -41,3 +41,72 @@
 [2025-06-29 23:08:22.561] [WARN ] [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m31s232ms638µs700ns).
 [2025-06-29 23:49:22.460] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
 [2025-06-29 23:49:22.784] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-06-30 00:30:10.311] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-06-30 00:30:10.785] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-06-30 00:30:11.445] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-06-30 00:30:11.462] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 10.025 seconds (process running for 11.314)
+[2025-06-30 00:31:00.184] [INFO ] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2025-06-30 00:31:00.185] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+[2025-06-30 00:31:00.187] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 1 ms
+[2025-06-30 00:37:48.991] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-06-30 00:37:49.263] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-06-30 00:38:09.957] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-06-30 00:38:10.459] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-06-30 00:38:11.102] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-06-30 00:38:11.121] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 10.434 seconds (process running for 11.745)
+[2025-06-30 00:38:27.167] [INFO ] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2025-06-30 00:38:27.168] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+[2025-06-30 00:38:27.174] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 4 ms
+[2025-06-30 00:58:54.791] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-06-30 00:58:55.070] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-06-30 08:53:41.140] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-06-30 08:53:41.496] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-06-30 08:53:42.062] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-06-30 08:53:42.075] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 9.001 seconds (process running for 10.586)
+[2025-06-30 08:54:08.423] [INFO ] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2025-06-30 08:54:08.425] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+[2025-06-30 08:54:08.432] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 4 ms
+[2025-06-30 09:00:00.182] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-06-30 09:00:00.510] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-06-30 09:00:18.528] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-06-30 09:00:18.906] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-06-30 09:00:19.417] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-06-30 09:00:19.431] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 9.302 seconds (process running for 10.544)
+[2025-06-30 09:00:32.272] [INFO ] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2025-06-30 09:00:32.275] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+[2025-06-30 09:00:32.275] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 0 ms
+[2025-06-30 09:07:18.995] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-06-30 09:07:19.271] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-06-30 09:07:33.747] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-06-30 09:07:34.120] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-06-30 09:07:34.654] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-06-30 09:07:34.675] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 8.873 seconds (process running for 10.117)
+[2025-06-30 09:08:06.972] [INFO ] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2025-06-30 09:08:06.972] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+[2025-06-30 09:08:06.976] [INFO ] [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 2 ms
+[2025-06-30 09:09:07.673] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-06-30 09:09:07.955] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-07-02 12:13:58.574] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-07-02 12:13:59.025] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-07-02 12:13:59.623] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-07-02 12:13:59.641] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 11.359 seconds (process running for 12.936)
+[2025-07-02 12:14:20.391] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-07-02 12:14:20.441] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-07-02 12:14:31.012] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-07-02 12:14:31.324] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-07-02 12:14:31.896] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-07-02 12:14:31.920] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 7.772 seconds (process running for 9.019)
+[2025-07-02 12:18:01.068] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-07-02 12:18:01.210] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-07-02 12:33:25.832] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-07-02 12:33:28.867] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-07-02 12:33:30.276] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-07-02 12:33:30.302] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 18.819 seconds (process running for 20.282)
+[2025-07-02 12:34:05.734] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-07-02 12:34:05.794] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
+[2025-07-02 12:42:09.325] [WARN ] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2025-07-02 12:42:09.636] [INFO ] [org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer] - Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+[2025-07-02 12:42:10.118] [INFO ] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port 8080 (http) with context path '/'
+[2025-07-02 12:42:10.127] [INFO ] [com.example.todo.TodolistAppApplication] - Started TodolistAppApplication in 14.652 seconds (process running for 15.901)
+[2025-07-02 12:42:32.962] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Commencing graceful shutdown. Waiting for active requests to complete
+[2025-07-02 12:42:33.063] [INFO ] [org.springframework.boot.web.embedded.tomcat.GracefulShutdown] - Graceful shutdown complete
